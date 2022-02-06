@@ -1,0 +1,8 @@
+C:\Users\bruno\source\repos\ControleEstoqueDeposito\bin\Debug\ControleEstoqueDeposito.exe.config
+C:\Users\bruno\source\repos\ControleEstoqueDeposito\bin\Debug\ControleEstoqueDeposito.exe
+C:\Users\bruno\source\repos\ControleEstoqueDeposito\bin\Debug\ControleEstoqueDeposito.pdb
+C:\Users\bruno\source\repos\ControleEstoqueDeposito\obj\Debug\ControleEstoqueDeposito.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\ControleEstoqueDeposito\obj\Debug\ControleEstoqueDeposito.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\source\repos\ControleEstoqueDeposito\obj\Debug\ControleEstoqueDeposito.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\ControleEstoqueDeposito\obj\Debug\ControleEstoqueDeposito.exe
+C:\Users\bruno\source\repos\ControleEstoqueDeposito\obj\Debug\ControleEstoqueDeposito.pdb
