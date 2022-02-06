@@ -48,7 +48,7 @@ namespace ControleEstoqueDeposito
             depsitoFilial16.EntradaMercadoria(10);
             
             Console.WriteLine("                                              ");
-            depsitoFilial16.RequisicaoMaterial(80);
+            depsitoFilial16.RequisicaoMaterial(60);
 
             Console.WriteLine("                                              ");
             depsitoFilial16.SaidaMercadoria(5);
